@@ -31,3 +31,8 @@ Source from: https://developer.apple.com/library/archive/documentation/Cocoa/Con
 
 ## Contribution
 This is an ongoing project that might help you (and also me) to learn about Core Data and CollectionView design pattern, so if you think you can make this project even better by adding more feature or maybe redesign the design and make become more better just go a head, just make pull request at this repo and let's learn together! 🤩🤩🤩🤩
+
+## LICENSE & COPYRIGHT 
+ © Jogi Oktavianus, Apple Developer Academy
+
+Licensed under the [MIT LICENSE] (LICENSE)
